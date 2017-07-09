@@ -1,9 +1,4 @@
-# Ignore everything...
+# Ignore all sub-directories
 
-*
+*/
 
-# Despite Whitelist: All files
-
-!*.*
-
-# Thus: Ignore any subdirectories.
